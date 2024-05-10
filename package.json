@@ -15,7 +15,7 @@
     "eslint": "^8.13.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-postcss": "^9.0.1",
@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@tailwindcss/line-clamp": "^0.3.1",
+    "hexo-filter-date-from-git": "^0.1.2",
     "postcss": "^8.4.12"
   }
 }
